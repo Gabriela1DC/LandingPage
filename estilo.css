@@ -73,8 +73,9 @@ body {
     margin-top: 1rem;
 }
 
-user img{
-    height: 6rem;
+.user img{
+    height: 9rem;
+    widht:9rem;
 }
 
 .login{
